@@ -208,7 +208,7 @@ crack_plotter.show_plot()
 1. 克隆仓库：
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/nicexin24/Some-visualization-functions.git
     cd yourrepository
     ```
 
@@ -218,7 +218,7 @@ crack_plotter.show_plot()
     jupyter notebook
     ```
 
-3. 打开 `your_notebook.ipynb` 文件并运行所有单元格。
+3. 打开 `visualization_functions.ipynb.ipynb` 文件并运行所有单元格。
 
 ### 直接运行 Python 脚本
 
@@ -253,15 +253,6 @@ crack_plotter = CrackPlotter(inline_set, xline_set, e, data, axis_fontdict, font
 crack_plotter.show_plot()
 ```
 
-## 贡献
-
-欢迎贡献！请遵循以下步骤：
-
-1. Fork 本仓库。
-2. 创建一个新的分支：`git checkout -b my-feature`。
-3. 提交你的更改：`git commit -am 'Add some feature'`。
-4. 推送到新的分支：`git push origin my-feature`。
-5. 发起 Pull Request。
 
 ## 许可证
 
